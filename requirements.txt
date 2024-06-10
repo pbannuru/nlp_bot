@@ -1,0 +1,8 @@
+streamlit
+pandas
+crewAI
+crewai_tools
+requests
+minstral
+ollama # Assuming a placeholder for any local LLM package
+python-dotenv
